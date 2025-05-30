@@ -18,4 +18,4 @@ This software is free and can be modified or redistributed under the terms of th
 Precompiled binaries can be downloaded from the [Releases page](https://github.com/FranciscoOliva/SIMMADLL/tree/main/releases).
 
 ### Available executables (Multiplatform):
-- [Windows,macOS and Linux](https://github.com/FranciscoOliva/SIMMADLL/releases/download/v1.0.0/SIMMADLL.jar)
+- [Windows,macOS and Linux](https://github.com/FranciscoOliva/SIMMADLL/tree/main/releases/v1.0.0/SIMMADLL.jar)
